@@ -20,7 +20,7 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-### check out the Firebase deploy
+### check out the live deploy
 
 https://covid19-tracker-84110.web.app/
 
